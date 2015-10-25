@@ -1,0 +1,8 @@
+New log file opened at Sun Oct 25 15:49:19 GMT 2015 by 15583@www.freespace.com
+Taking next connection to: 48808
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 15583@www.freespace.com logs at Sun Oct 25 15:52:19 GMT 2015, goodbye.
